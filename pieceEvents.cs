@@ -3,7 +3,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace chess_game
+namespace chess_game 
 {
     public class pieceEvents
     {
